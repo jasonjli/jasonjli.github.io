@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:74772A4E-1F99-4F60-9665-095986DDE7BA</id>
+ <title>Page list Atom feed</title>
+ <updated>2014-11-13T17:20:24+11:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:0C4A39C6-E4B7-403D-B280-DC26009FCB9C</id>
+  <title>Home</title>
+  <title xmlns="urn:iweb:">Home</title>
+  <in-navbar xmlns="urn:iweb:">0C4A39C6-E4B7-403D-B280-DC26009FCB9C</in-navbar>
+  <link rel="alternate" href="Home.html"/>
+  <updated>2014-11-13T17:20:24.001+11:00</updated>
+  <content>Home</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:A309FA06-C325-45F4-988A-3AD7F9A0AE54</id>
+  <title>Research</title>
+  <title xmlns="urn:iweb:">Research</title>
+  <in-navbar xmlns="urn:iweb:">A309FA06-C325-45F4-988A-3AD7F9A0AE54</in-navbar>
+  <link rel="alternate" href="Research.html"/>
+  <updated>2014-11-13T17:20:24.002+11:00</updated>
+  <content>Research</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:02D82D47-1805-4CBD-BAD7-36DB9760B007</id>
+  <title>Publications</title>
+  <title xmlns="urn:iweb:">Publications</title>
+  <in-navbar xmlns="urn:iweb:">02D82D47-1805-4CBD-BAD7-36DB9760B007</in-navbar>
+  <link rel="alternate" href="Publications.html"/>
+  <updated>2014-11-13T17:20:24.003+11:00</updated>
+  <content>Publications</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:DF5985AF-FC78-492E-8CC2-092160DF6035</id>
+  <title>CV</title>
+  <title xmlns="urn:iweb:">CV</title>
+  <in-navbar xmlns="urn:iweb:">DF5985AF-FC78-492E-8CC2-092160DF6035</in-navbar>
+  <link rel="alternate" href="CV.html"/>
+  <updated>2014-11-13T17:20:24.004+11:00</updated>
+  <content>CV</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:3341FC78-B7A5-4863-AD32-7C758D70C646</id>
+  <title>Teaching</title>
+  <title xmlns="urn:iweb:">Teaching</title>
+  <in-navbar xmlns="urn:iweb:">3341FC78-B7A5-4863-AD32-7C758D70C646</in-navbar>
+  <link rel="alternate" href="Teaching.html"/>
+  <updated>2014-11-13T17:20:24.005+11:00</updated>
+  <content>Teaching</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:6F04A553-2943-46AB-9D83-7D9C54C9F4A3</id>
+  <title>Bio</title>
+  <title xmlns="urn:iweb:">Bio</title>
+  <in-navbar xmlns="urn:iweb:">6F04A553-2943-46AB-9D83-7D9C54C9F4A3</in-navbar>
+  <link rel="alternate" href="Bio.html"/>
+  <updated>2014-11-13T17:20:24.006+11:00</updated>
+  <content>Bio</content>
+ </entry>
+</feed>
